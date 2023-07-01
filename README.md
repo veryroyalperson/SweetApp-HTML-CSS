@@ -1,10 +1,6 @@
-### Okul
+# Developer Portfolio HTML CSS
 
-## Okul
-
-# Okul
-
-
+# `Screen`
 
 ![](screen.gif)
 
@@ -12,4 +8,3 @@
 
 
 
-# Sweetapp
